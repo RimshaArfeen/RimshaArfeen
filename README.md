@@ -13,8 +13,8 @@
       <img src="https://komarev.com/ghpvc/?username=rimshaarfeen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
     </p>
     
-    - 🌱 I’m currently learning Node.js <br>
-    - 💬 Ask me about React, Redux Toolkit<br>
+    - 🌱 I’m currently learning Node.js
+    - 💬 Ask me about React, Redux Toolkit
     - 📫 How to reach me rimshaarfeen61@gmail.com
   </div>
 
@@ -55,7 +55,7 @@
   </a> 
 </p>
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;"width:100%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimshaarfeen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimshaarfeen" alt="Streak Stats" />
 </div>
