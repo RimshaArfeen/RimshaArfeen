@@ -55,7 +55,7 @@
   </a> 
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;width:100%; ; margin-top: 20px>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;width:100%; ; margin-top:20px ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimshaarfeen&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimshaarfeen" alt="Streak Stats" />
 </div>
