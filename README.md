@@ -1,6 +1,6 @@
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 20px;"width:60%;">
 <h1 align="left"  style="width:60%;">Hi 👋, I'm Rimsha Arfeen</h1>
-<h3 align="left" style="width:60%;">A passionate Frontend Web Developer from Pakistan</h3>
+<h3 align="left" style="width:60%;">A passionate MERN Stack Developer from Pakistan</h3>
   <div align="right" style="width:40%;" >
     <img align="right" src="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="A passionate frontend web developer" width="250" height="250" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </div>
@@ -13,8 +13,8 @@
       <img src="https://komarev.com/ghpvc/?username=rimshaarfeen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
     </p>
     
-    - 🌱 I’m currently learning Node.js
-    - 💬 Ask me about React, Redux Toolkit
+
+    - 💬 Ask me about React, Redux Toolkit, Node JS,MongoDb
     - 📫 How to reach me rimshaarfeen61@gmail.com
   </div>
 
